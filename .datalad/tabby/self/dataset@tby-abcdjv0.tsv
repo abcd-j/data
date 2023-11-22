@@ -11,3 +11,10 @@ license
 doi												
 homepage	https://abcd-j.github.io/data-catalog/											
 last-updated	2023-11-22											
+authors	@tabby-many-authors@tby-abcdjv0											
+funding	@tabby-optional-many-funding@tby-abcdjv0											
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0											
+publication	@tabby-optional-many-publications@tby-abcdjv0											
+files	@tabby-optional-many-files@tby-ds1											
+subdatasets	@tabby-optional-many-subdatasets											
+used-for	@tabby-optional-many-used-for@tby-abcdjv0											
