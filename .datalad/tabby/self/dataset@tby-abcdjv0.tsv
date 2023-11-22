@@ -1,0 +1,13 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-dataset-required											
+# bold fields are required												
+name	abcdj-home											
+title	The ABCD-J Data Catalog											
+description	This data catalog contains datasets from the ABCD-J research community project, officially titled “Verbundprojekt: Accessing Behavior for Clinical Data and Joint usage (ABCD-J) - Eine Plattform für Verhaltensmarker der digitalen Neuromedizin in NRW”. This project is a collaboration between five research institutions in the German state of North Rhine-Westphalia: University Clinic RWTH Aachen, University Clinic Bonn, University Clinic Köln, University Clinic Düsseldorf and Research Centre Jülich. The overarching goal of ABCD-J is to elevate existing technical solutions for research practice adoption. From the social perspective, the ABCD-J project aims to promote and facilitate collaboration between multiple research centres, while from the technical perspective the project will accelerate research through homogenization of workflows and processes, with particular emphasis on digital biomarker development.											
+version												
+sample[organism]												
+sample[organism-part]												
+keywords	Aachen	Bonn	Cologne	Düsseldorf	Jülich	Collaboration	Research	Open data	FAIR	Biomarker	Clinical	Behaviour
+license												
+doi												
+homepage	https://abcd-j.github.io/data-catalog/											
+last-updated	2023-11-22											
