@@ -1,0 +1,18 @@
+name	3f8a45c0-08fc-479c-b561-cb6f744d2b5c					
+title	JUMAX					
+description	The JUMAX dataset is a replication sample of the IMAX dataset (acquired at the Duke-NUS, Singapore) for the purpose of studying brain states during naturalistic viewing versus resting state. Participants were scanned on three separate days within a week. 3T MRI scanning consisted of one anatomical scan, two resting state scans, and three separate movie scans while participants were watching snippets of the respective movies Inscapes, The Circus, and Indiana Jones and the Temple of Doom.					
+version	32f3303308c89b037fe1700547348470539a30cb					
+sample[organism]	NCBITaxon:9606					
+sample[organism-part]	UBERON:0000955					
+keywords	naturalistic viewing 	resting state	functional MRI	reliability	anatomical MRI	movies
+license						
+doi						
+homepage						
+last-updated	2023-12-12					
+authors	@tabby-many-authors@tby-abcdjv0					
+funding	@tabby-optional-many-funding@tby-abcdjv0					
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0					
+publication	@tabby-optional-many-publications@tby-abcdjv0					
+files	@tabby-optional-many-files@tby-ds1					
+subdatasets	@tabby-optional-many-subdatasets@tby-abcdjv0					
+used-for	@tabby-optional-many-used-for@tby-abcdjv0					
