@@ -1,0 +1,20 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-dataset-required						
+# bold fields are required							
+name	0036b2c6-f131-4660-9ef9-945087ad02d3						
+title	Movies						
+description	An multimodal dataset, including naturalistic viewing MRI scans and phenotype data, for socio-affective research. Before MRI scanning, articipants filled out online questionnaires to assess socio-affective, personality, and mood-related traits. On the day of the MRI scanning, verbal fluency, theory of mind, demographical variables and state questionnaires were assessed prior to MRI scanning. Saliva samples were collected before and after MRI scanning to measure cortisol, estradiol, progesterone and testosterone levels. MRI scanning consisted of two resting state sequences, one anatomical scan, one movie test scan and 8 movie scans. After each movie sequence, valence, arousal and dominance were assessed via the Self-Assessment Manikin (SAM). After MRI scanning, participants filled out questionnaires regarding their current state, the movie paradigm and their usual television behavior.						
+version	1139b4c82d7ecd0d9ab25bf4c00ec2c06461d6da						
+sample[organism]	NCBITaxon:9606						
+sample[organism-part]	UBERON:0000955						
+keywords	naturalistic viewing	movie watching	socio-affective research	functional MRI	anatomical MRI	questionnaire	phenotype
+license							
+doi							
+homepage							
+last-updated	2023-12-12						
+authors	@tabby-many-authors@tby-abcdjv0						
+funding	@tabby-optional-many-funding@tby-abcdjv0						
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0						
+publication	@tabby-optional-many-publications@tby-abcdjv0						
+files	@tabby-optional-many-files@tby-ds1						
+subdatasets	@tabby-optional-many-subdatasets@tby-abcdjv0						
+used-for	@tabby-optional-many-used-for@tby-abcdjv0						
