@@ -1,0 +1,19 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#dataset-required				
+# bold fields are required					
+name	ocr-PIRA-cohort				
+title	Longitudinal clinical data in Ocrelizumab-treated multiple sclerosis patients				
+description	A clinical dataset of ocrelizumab treated multiple sclerosis patients at the HHU University Clinic Düsseldorf with routinely collected clinical, imaging and OCT results (no imaging data). Data was collected for routine visits from 2018 to 2022. 				
+type	custom				
+version	0.1.0				
+sample[organism]	NCBITaxon:9606				
+sample[organism-part]	UBERON:0000955				
+keywords	clinical data	multiple sclerosis	ocrelizumab	PIRA	EDSS
+license					
+doi					
+homepage					
+last-updated	2023-03-01				
+authors	@tabby-many-authors@tby-abcdjv0				
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0				
+publication	@tabby-optional-many-publications@tby-abcdjv0				
+files	@tabby-optional-many-files@tby-ds1				
+used-for	@tabby-optional-many-used-for@tby-abcdjv0				
