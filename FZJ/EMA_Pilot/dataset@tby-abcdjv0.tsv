@@ -1,0 +1,19 @@
+name	372e66b3-e654-4a0f-ba4c-6394bf314f2f					
+title	JTrack EMA Pilot					
+description	In a pilot study, data was collected from 21 participants to compare remote passive monitoring (using the JTrack Social application) to self-reporting (using the JTrack EMA application) of social behavior through smartphone-based assessments. Over a period of two weeks, all participants were asked to report daily on their behavioral and mood perceptions from the previous day. This data can be used to evaluate the correlation between passive sensor-based recordings and self-reported measures of social and health-related behavioral patterns.					
+type	datalad					
+version	d468e9a9455b38b959db34bc5335fd66e42b2884					
+sample[organism]	NCBITaxon:9606					
+sample[organism-part]						
+keywords	JTrack	remote monitoring	ecological momentary assessment	digital biomarkers	Research Centre Jülich	INM-7
+license	https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt					
+doi	10.12751/g-node.c9nk4y					
+homepage	https://www.fz-juelich.de/en/inm/inm-7/research-groups/biomarker-development					
+last-updated	2024-02-23					
+authors	@tabby-many-authors@tby-abcdjv0					
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0					
+files	@tabby-optional-many-files@tby-ds1					
+funding	@tabby-optional-many-funding@tby-abcdjv0					
+publication	@tabby-optional-many-publications@tby-abcdjv0					
+subdatasets	@tabby-optional-many-subdatasets@tby-abcdjv0					
+used-for	@tabby-optional-many-used-for@tby-abcdjv0					
