@@ -7,8 +7,8 @@ sample[organism]	NCBITaxon:9606
 sample[organism-part]						
 keywords	JTrack	remote monitoring	ecological momentary assessment	digital biomarkers	Research Centre Jülich	INM-7
 license	https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt					
-doi	10.12751/g-node.c9nk4y					
-homepage	https://www.fz-juelich.de/en/inm/inm-7/research-groups/biomarker-development					
+doi	https://www.doi.org/10.12751/g-node.c9nk4y					
+homepage	https://gin.g-node.org/JTrack/EMA_Pilot					
 last-updated	2024-02-23					
 authors	@tabby-many-authors@tby-abcdjv0					
 data-controller	@tabby-optional-many-data-controller@tby-abcdjv0					
