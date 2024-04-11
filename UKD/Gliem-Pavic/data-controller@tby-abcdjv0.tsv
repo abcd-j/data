@@ -1,0 +1,5 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#data-controller-required		
+# bold fields are required			
+name	email	type	address
+Michael Gliem	michael.gliem@med.uni-duesseldorf.de	Person	
+Goran Pavic	goran.pavic@med.uni-duesseldorf.de	Person	

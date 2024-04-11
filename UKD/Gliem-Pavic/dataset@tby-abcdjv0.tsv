@@ -1,0 +1,21 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#dataset-required				
+# bold fields are required					
+name	Gliem-Pavic				
+title	Microglia contributes to remyelination in cerebral but not spinal cord ischemia				
+description	Comparison of murine samples after spinal cord injury and cerebral photothrombosis. The goal is to compare cell recruitment and gene/pathway regulation betwen both brain and spinal cord after ischemic injury.				
+type	custom				
+version	latest				
+sample[organism]	NCBITaxon:10090				
+sample[organism-part]	UBERON:0000955	UBERON:0002240			
+keywords	brain	spinal cord	stroke	spinal cord injury	photothrombosis
+license	https://www.ncbi.nlm.nih.gov/geo/info/disclaimer.html				
+doi					
+homepage	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167274				
+last-updated	2021-08-14				
+authors	@tabby-many-authors@tby-abcdjv0				
+funding	@tabby-optional-many-funding@tby-abcdjv0				
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0				
+publication	@tabby-optional-many-publications@tby-abcdjv0				
+files	@tabby-optional-many-files@tby-ds1				
+subdatasets	@tabby-optional-many-subdatasets@tby-abcdjv0				
+used-for	@tabby-optional-many-used-for@tby-abcdjv0				
