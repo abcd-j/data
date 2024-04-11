@@ -1,0 +1,21 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#dataset-required																			
+# bold fields are required																				
+name	c0ebe952-528e-40c8-a44f-4a80bff28ffb																			
+title	SpEx: Speech and Executive_functions																			
+description	The goal of this study was to generate a dataset that capitalises on both the rich variety of attributes that can be found in speech as well as the modern methods that allow the extraction of such attributes. To this aim, a dataset was generated consisting of speech data from 148 German native speakers, supplemented by performance measures on a number of standardised, computer-based EF tests. The speech tasks performed in this study ranged from controlled tasks such as word generation and interference tasks, to less controlled spontaneous speech tasks that were designed in a way that mimics a natural conversation. The speech and EF data are complemented by a rich collection of demographic data as well as hormone information. This dataset is thus an expansive collection of data that will allow a variety of analyses in the context of speech, EF and inter-individual differences, and to our knowledge is the first of its kind in the German language.																			
+type	datalad																			
+version	4f5d78d24e6be85d26e22fbc088b2d8469163758																			
+sample[organism]	NCBITaxon:9606																			
+sample[organism-part]	UBERON:0000955																			
+keywords	behavioural data	healthy participants	speech	executive functions	audio data	word generation	picture naming	picture description	spontaneous speech	executive performance	cognitive flexibility	working memory	inhibition	attention/vigilance	hormones	NEO-5	BDI	Research Centre Jülich	INM-7	Brain & Behaviour
+license	https://data.fz-juelich.de/guide/juelich/terms-of-use.html#																			
+doi	https://doi.org/10.26165/JUELICH-DATA/CHWZDZ																			
+homepage	https://data.fz-juelich.de/dataset.xhtml?persistentId=doi:10.26165/JUELICH-DATA/CHWZDZ																			
+last-updated	2023-07-19																			
+authors	@tabby-many-authors@tby-abcdjv0																			
+funding	@tabby-optional-many-funding@tby-abcdjv0																			
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0																			
+publication	@tabby-optional-many-publications@tby-abcdjv0																			
+files	@tabby-optional-many-files@tby-ds1																			
+subdatasets	@tabby-optional-many-subdatasets@tby-abcdjv0																			
+used-for	@tabby-optional-many-used-for@tby-abcdjv0																			
