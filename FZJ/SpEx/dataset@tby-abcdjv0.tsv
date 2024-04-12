@@ -1,7 +1,7 @@
 # Documentation at	https://rdm.abcd-j.de/instructions.html#dataset-required																			
 # bold fields are required																				
 name	c0ebe952-528e-40c8-a44f-4a80bff28ffb																			
-title	SpEx: Speech and Executive_functions																			
+title	SpEx: Speech and Executive functions																			
 description	The goal of this study was to generate a dataset that capitalises on both the rich variety of attributes that can be found in speech as well as the modern methods that allow the extraction of such attributes. To this aim, a dataset was generated consisting of speech data from 148 German native speakers, supplemented by performance measures on a number of standardised, computer-based EF tests. The speech tasks performed in this study ranged from controlled tasks such as word generation and interference tasks, to less controlled spontaneous speech tasks that were designed in a way that mimics a natural conversation. The speech and EF data are complemented by a rich collection of demographic data as well as hormone information. This dataset is thus an expansive collection of data that will allow a variety of analyses in the context of speech, EF and inter-individual differences, and to our knowledge is the first of its kind in the German language.																			
 type	datalad																			
 version	4f5d78d24e6be85d26e22fbc088b2d8469163758																			
