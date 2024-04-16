@@ -1,4 +1,5 @@
 path[POSIX]	size[bytes]	checksum[md5]	url
+GSE167274_RAW.tar	42854400	16b0c38ee14453c3a2d88d816303cda0	https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE167274&format=file
 GSE167274_RAW/GSM5100724_246-G2128_Clariom_S_Mouse_.CEL.gz	1421459	35290ad665551cbae2f79dda6217ca43	https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM5100724&format=file&file=GSM5100724_246-G2128_Clariom_S_Mouse_.CEL.gz
 GSE167274_RAW/GSM5100716_339-G2133_Clariom_S_Mouse_.CEL.gz	1306575	0534a5508dd7b5e795966c09930af18f	https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM5100716&format=file&file=GSM5100716_339-G2133_Clariom_S_Mouse_.CEL.gz
 GSE167274_RAW/GSM5100712_339-G2193_Clariom_S_Mouse_.CEL.gz	1341574	0502c68c44eb035ce47f13e1839f2e47	https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM5100712&format=file&file=GSM5100712_339-G2193_Clariom_S_Mouse_.CEL.gz
