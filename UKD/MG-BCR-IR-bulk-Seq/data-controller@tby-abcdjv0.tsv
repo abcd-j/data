@@ -1,0 +1,5 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#data-controller-required
+# bold fields are required
+name	email	type	address
+Sumanta Barman	Sumanta.Barman@med.uni-duesseldorf.de	Person	
+Christopher Nelke	ChristopherJannik.Nelke@med.uni-duesseldorf.de	Person	

@@ -1,0 +1,21 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#dataset-required
+# bold fields are required
+name	MG-BCR-IR-bulk-Seq
+title	Myasthenia gravis (MG)-BCR repertoire bulk-Seq dataset
+description	The dataset contains bulk seqeuncing data of B cells (Heavy chain, lamda chain and kappa chain) from the peripheral blood mononuclear cells (PBMCs) of 12 Myasthenia gravis (MG) patients. These 12 patients are identified  as four distinct patient phenotypes based on their proteomic patterns. 3 patients consist of each subgroups which is denoted as protein signature (PS) 1 to PS4.
+type	custom
+version	1.0
+sample[organism]	NCBI:9606
+sample[organism-part]	NCIT_C12954
+keywords	Myasthenia gravis, bulk sequencing, peripheral blood
+license	
+doi	
+homepage	https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA1012710
+last-updated	
+authors	@tabby-many-authors@tby-abcdjv0
+funding	@tabby-optional-many-funding@tby-abcdjv0
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0
+publication	@tabby-optional-many-publications@tby-abcdjv0
+files	@tabby-optional-many-files@tby-ds1
+subdatasets	@tabby-optional-many-subdatasets@tby-abcdjv0
+used-for	@tabby-optional-many-used-for@tby-abcdjv0
