@@ -1,0 +1,27 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#files
+# bold fields are required
+path[POSIX]	size[bytes]	checksum[md5]	url
+Immune_repertoire_sequencing/EBV_KSHV_IR/1_PBS_CD4			
+Immune_repertoire_sequencing/EBV_KSHV_IR/1_PBS_CD8			
+Immune_repertoire_sequencing/EBV_KSHV_IR/2_PBS_CD4			
+Immune_repertoire_sequencing/EBV_KSHV_IR/2_PBS_CD8			
+Immune_repertoire_sequencing/EBV_KSHV_IR/4_EBV_CD4			
+Immune_repertoire_sequencing/EBV_KSHV_IR/4_EBV_CD8			
+Immune_repertoire_sequencing/EBV_KSHV_IR/6_PBS_CD4			
+Immune_repertoire_sequencing/EBV_KSHV_IR/6_PBS_CD8			
+Immune_repertoire_sequencing/EBV_KSHV_IR/10_KSHV_CD4			
+Immune_repertoire_sequencing/EBV_KSHV_IR/10_KSHV_CD8			
+Immune_repertoire_sequencing/EBV_KSHV_IR/12_KSHV_CD4			
+Immune_repertoire_sequencing/EBV_KSHV_IR/12_KSHV_CD8			
+Immune_repertoire_sequencing/EBV_KSHV_IR/14_KSHV_CD4			
+Immune_repertoire_sequencing/EBV_KSHV_IR/14_KSHV_CD8			
+Immune_repertoire_sequencing/EBV_KSHV_IR/22_EBV_KSHV_CD4			
+Immune_repertoire_sequencing/EBV_KSHV_IR/22_EBV_KSHV_CD8			
+Immune_repertoire_sequencing/EBV_KSHV_IR/25_EBV_KSHV_CD4			
+Immune_repertoire_sequencing/EBV_KSHV_IR/25_EBV_KSHV_CD8			
+Immune_repertoire_sequencing/EBV_KSHV_IR/31_EBV_CD4			
+Immune_repertoire_sequencing/EBV_KSHV_IR/31_EBV_CD8			
+Immune_repertoire_sequencing/EBV_KSHV_IR/33_KSHV_EBV_CD4			
+Immune_repertoire_sequencing/EBV_KSHV_IR/33_KSHV_EBV_CD8			
+Immune_repertoire_sequencing/EBV_KSHV_IR/42_EBV_CD4			
+Immune_repertoire_sequencing/EBV_KSHV_IR/42_EBV_CD8			

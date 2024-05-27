@@ -1,0 +1,21 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#dataset-required
+# bold fields are required
+name	TCR-Seq-EBV-KSHV-infected-humanized-mice
+title	TCR sequences of EBV and EBV KSHV infected humanized mice dataset
+description	The dataset contains bulk sequncing data of CD4+ T cells from splenocytes of Mock infected humanized mouse, CD8 Tcells from splenocytes of Mock infected humanized mouse, CD4 Tcells from splenocytes of EBV infected humanized mouse, CD8 Tcells from splenocytes of EBV infected humanized mouse, CD4 Tcells from splenocytes of KSHV infected humanized mouse, CD8 Tcells from splenocytes of KSHV infected humanized mouse, CD4 Tcells from splenocytes of EBV+KSHV infected humanized mouse, CD8 Tcells from splenocytes of EBV+KSHV infected humanized mouse, CD4 Tcells from splenocytes of EBV infected humanized mouse and CD8 Tcells from splenocytes of EBV infected humanized mouse.
+type	custom
+version	1.0
+sample[organism]	NCBI:10090
+sample[organism-part]	NCIT_C12954
+keywords	KHSV, EBV, bulk sequencing, humanized mouse
+license	
+doi
+homepage	https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA1109285
+last-updated	
+authors	@tabby-many-authors@tby-abcdjv0
+funding	@tabby-optional-many-funding@tby-abcdjv0
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0
+publication	@tabby-optional-many-publications@tby-abcdjv0
+files	@tabby-optional-many-files@tby-ds1
+subdatasets	@tabby-optional-many-subdatasets@tby-abcdjv0
+used-for	@tabby-optional-many-used-for@tby-abcdjv0
