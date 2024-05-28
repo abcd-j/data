@@ -5,8 +5,8 @@ title	CD52-Multiple Sclerosis (MS)-immune repertoire bulk-Seq dataset
 description	The dataset contains bulk sequencing data of FACS sorted B cells (naive B cells-NB; memory B cells - MB) and T cells (CD4+, CD8+) T cells  from peripheral blood mononuclear cells (PBMCs) of 12 Multiple Sclerosis (MS) patients  treated with alemtuzumab (Lemtrada) compared to  5 untreated controls. For treated patients TP1: Baseline; TP2: cycle 1 + 6 months; TP3: cycle 2 + 12 months, etc. For untreated controls TP1: m1; TP2: m6-14.
 type	custom
 version	1.0
-sample[organism]	NCBI:9606
-sample[organism-part]	NCIT_C12954
+sample[organism]	NCBITaxon:9606
+sample[organism-part]	NCIT:C12954
 keywords	Multiple Sclerosis	bulk sequencing	peripheral blood	alemtuzumab
 license	
 doi	
