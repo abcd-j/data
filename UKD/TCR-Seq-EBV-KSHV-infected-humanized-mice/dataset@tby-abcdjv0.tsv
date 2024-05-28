@@ -7,7 +7,7 @@ type	custom
 version	1.0
 sample[organism]	NCBI:10090
 sample[organism-part]	NCIT_C12954
-keywords	KHSV, EBV, bulk sequencing, humanized mouse
+keywords	KHSV	EBV	bulk sequencing	humanized mouse
 license	
 doi
 homepage	https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA1109285
