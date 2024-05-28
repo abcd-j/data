@@ -5,8 +5,8 @@ title	Myasthenia gravis (MG)-BCR repertoire bulk-Seq dataset
 description	The dataset contains bulk seqeuncing data of B cells (Heavy chain, lamda chain and kappa chain) from the peripheral blood mononuclear cells (PBMCs) of 12 Myasthenia gravis (MG) patients. These 12 patients are identified  as four distinct patient phenotypes based on their proteomic patterns. 3 patients consist of each subgroups which is denoted as protein signature (PS) 1 to PS4.
 type	custom
 version	1.0
-sample[organism]	NCBI:9606
-sample[organism-part]	NCIT_C12954
+sample[organism]	NCBITaxon:9606
+sample[organism-part]	NCIT:C12954
 keywords	Myasthenia gravis	bulk sequencing	peripheral blood
 license	
 doi	

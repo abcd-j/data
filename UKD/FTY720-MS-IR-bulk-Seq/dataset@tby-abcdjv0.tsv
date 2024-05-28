@@ -5,8 +5,8 @@ title	FTY720-Multiple Sclerosis (MS)-immune repertoire bulk-Seq dataset
 description	The dataset contains longitudinal bulk sequencing data of FACS sorted  T cells (CD3+CD4+, CD3+CD8+, CD3+CD4+CCR7+, CD3+CD4+CCR7-, CD3+CD8+CCR7+, CD3+CD8+CCR7-) from peripheral blood mononuclear cells (PBMCs) of 4 Multiple Sclerosis (MS) patients  treated with fingolimod (FTY720) compared to  2 untreated controls.  For treated patients TP1: Baseline; TP2: 6-12 months. For untreated controls TP1: m1; TP2: 6-12 months
 type	custom
 version	1.0
-sample[organism]	NCBI:9606
-sample[organism-part]	NCIT_C12954
+sample[organism]	NCBITaxon:9606
+sample[organism-part]	NCIT:C12954
 keywords	Multiple Sclerosis	bulk sequencing	peripheral blood	fingolimod
 license	
 doi	
