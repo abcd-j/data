@@ -1,0 +1,21 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#dataset-required			
+# bold fields are required				
+name	TMS-DTI-ALS			
+title	The ipsilateral silent period: an early diagnostic marker of callosal disconnection in ALS			
+description	We studied the copus callosum in ALS patients using  using TMS and diffusion tensor imaging			
+type	custom			
+version	0.1.0			
+sample[organism]	NCBITaxon:9606			
+sample[organism-part]	UBERON:0000955			
+keywords	amyotrophic lateral sclerosis	corpus callosum	mirror movements	transcranial magnetic stimulation
+license	https://creativecommons.org/licenses/by/4.0/legalcode			
+doi	https://zenodo.org/doi/10.5281/zenodo.11503673			
+homepage	https://zenodo.org/records/11503674			
+last-updated	2024-06-06			
+authors	@tabby-many-authors@tby-abcdjv0			
+funding	@tabby-optional-many-funding@tby-abcdjv0			
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0			
+publication	@tabby-optional-many-publications@tby-abcdjv0			
+files	@tabby-optional-many-files@tby-ds1			
+subdatasets	@tabby-optional-many-subdatasets@tby-abcdjv0			
+used-for	@tabby-optional-many-used-for@tby-abcdjv0			

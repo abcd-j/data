@@ -1,0 +1,4 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#files		
+# bold fields are required			
+path[POSIX]	size[bytes]	checksum[md5]	url
+ISP.Data.zip	168073	533a58046b534dea7868e994bb91f6a7	https://zenodo.org/records/11503674/files/ISP.Data.zip?download=1
