@@ -1,0 +1,21 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#dataset-required			
+# bold fields are required				
+name	GAD-AINS-sc-Seq			
+title	GAD-AINS sc-Seq dataset			
+description	The dataset contains single-cell seqeuncing data from the peripheral blood (PB) and cerebrospinal fluid (CSF) of 8 patients with Glutamic acid decarboxylase (GAD) antibody-associated autoimmune neurological syndromes (AINS) compared to 8 patients with idiopathic intracranial hypertension (IIH).			
+type	custom			
+version	1.0			
+sample[organism]	NCBITaxon:9606			
+sample[organism-part]	CL:2000001	UBERON:0001359		
+keywords	GAD-AINS	single-cell sequencing	cerebrospinal fluid	peripheral blood
+license				
+doi				
+homepage				
+last-updated				
+authors	@tabby-many-authors@tby-abcdjv0			
+funding	@tabby-optional-many-funding@tby-abcdjv0			
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0			
+publication	@tabby-optional-many-publications@tby-abcdjv0			
+files	@tabby-optional-many-files@tby-ds1			
+subdatasets	@tabby-optional-many-subdatasets@tby-abcdjv0			
+used-for	@tabby-optional-many-used-for@tby-abcdjv0			
