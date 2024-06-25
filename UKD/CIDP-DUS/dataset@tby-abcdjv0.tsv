@@ -1,0 +1,21 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#dataset-required					
+# bold fields are required						
+name	CIDP-DUS					
+title	CIDP cohort Düsseldorf					
+description	Clinical data from a cohort of CIDP patients and healthy controls at the University Hospital Düsseldorf from whom PBMCs and serum samples were collected.					
+type	custom					
+version	latest					
+sample[organism]	NCBITaxon:9606					
+sample[organism-part]	UBERON:0001977	CL:2000001				
+keywords	CIDP	PBMC	Serum	polyneuropathies	neuroimmunology	autoimmune
+license						
+doi						
+homepage						
+last-updated						
+authors	@tabby-many-authors@tby-abcdjv0					
+funding	@tabby-optional-many-funding@tby-abcdjv0					
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0					
+publication	@tabby-optional-many-publications@tby-abcdjv0					
+files	@tabby-optional-many-files@tby-ds1					
+subdatasets	@tabby-optional-many-subdatasets@tby-abcdjv0					
+used-for	@tabby-optional-many-used-for@tby-abcdjv0					
