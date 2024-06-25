@@ -1,0 +1,21 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#dataset-required			
+# bold fields are required				
+name	Berndt_Aktas_Protein_Interaction			
+title	Possible interaction partners of Trx1, Grx1 and Grx2			
+description	These data contain potential redox regulated proteins in different cell types. The proteins were identified by trapping experiments using oxidoreductase mutants binding oxidized proteins but not releasing the reduced proteins. These data can be used to identify/verify new pathway regulations/new redox regulated processes/...			
+type	custom			
+version	0.1.0			
+sample[organism]	NCBITaxon:9606			
+sample[organism-part]	UBERON:0004801			
+keywords	Interaction partners 	Grx2	Grx1	Trx1
+license				
+doi				
+homepage				
+last-updated				
+authors	@tabby-many-authors@tby-abcdjv0			
+funding	@tabby-optional-many-funding@tby-abcdjv0			
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0			
+publication	@tabby-optional-many-publications@tby-abcdjv0			
+files	@tabby-optional-many-files@tby-ds1			
+subdatasets	@tabby-optional-many-subdatasets@tby-abcdjv0			
+used-for	@tabby-optional-many-used-for@tby-abcdjv0			
