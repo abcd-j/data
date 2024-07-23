@@ -1,0 +1,21 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#dataset-required					
+# bold fields are required						
+name	flow_cytometry_CNS_autoimmune					
+title	Peripheral and intrathecal lymphocyte patterns distinguish CNS autoimmune disorders from primary CNS malignancies					
+description	The dataset contains multidimensional flow cytometry (mFC) data from the peripheral blood (PB) and cerebrospinal fluid (CSF) of 81 patients with autoimmune limbic encephalitis (ALE), 148 patients with relapsing-remitting multiple sclerosis (RRMS), 33 patients with IDH-wildtype glioma, 9 patients with primary diffuse large B cell lymphoma of the CNS (CNS-DLBCL), and 110 somatic symptom disorder (SD) patients. In addition, mFC data are available from the PB of an independent cohort of 20 RRMS and 18 IDH wild-type glioblastoma patients compared to 19 healthy controls (HC).					
+type	custom					
+version	1.0					
+sample[organism]	NCBITaxon:9606					
+sample[organism-part]	CL:2000001	UBERON:0001359				
+keywords	autoimmune limbic encephalitis	relapsing-remitting multiple sclerosis	primary CNS tumors	multidimensional flow cytometry	cerebrospinal fluid	peripheral blood
+license						
+doi						
+homepage						
+last-updated						
+authors	@tabby-many-authors@tby-abcdjv0					
+funding	@tabby-optional-many-funding@tby-abcdjv0					
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0					
+publication	@tabby-optional-many-publications@tby-abcdjv0					
+files	@tabby-optional-many-files@tby-ds1					
+subdatasets	@tabby-optional-many-subdatasets@tby-abcdjv0					
+used-for	@tabby-optional-many-used-for@tby-abcdjv0					
