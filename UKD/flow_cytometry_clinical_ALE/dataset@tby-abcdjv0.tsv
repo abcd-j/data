@@ -1,0 +1,21 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#dataset-required			
+# bold fields are required				
+name	flow_cytometry_clinical_ALE			
+title	Lymphocyte-driven immune-cell signatures correspond to clinical phenotypes in Autoimmune Limbic Encephalitis			
+description	The dataset contains multidimensional flow cytometry (mFC) data from the peripheral blood (PB) and cerebrospinal fluid (CSF) of 640 patients (81 Autoimmune Limbic Encephalitis (ALE), 148 relapsing-remitting multiple sclerosis (RRMS), 197 Alzheimer's disease (AD), 67 frontotemporal dementia (FTD), 37 temporal lobe epilepsy with hippocampal sclerosis (TLE-HS), and 110 somatic symptom disorder (SD) patients). Furthermore, clinical and paraclinical data are available for the ALE cohort (neuropsychological performance, abnormalities on electroencephalography (EEG) and magnetic resonance imaging (MRI)).			
+type	custom			
+version	1.0			
+sample[organism]	NCBITaxon:9606			
+sample[organism-part]	CL:2000001	UBERON:0001359		
+keywords	limbic encephalitis	multidimensional flow cytometry	immune cells	differential diagnoses
+license				
+doi				
+homepage				
+last-updated				
+authors	@tabby-many-authors@tby-abcdjv0			
+funding	@tabby-optional-many-funding@tby-abcdjv0			
+data-controller	@tabby-optional-many-data-controller@tby-abcdjv0			
+publication	@tabby-optional-many-publications@tby-abcdjv0			
+files	@tabby-optional-many-files@tby-ds1			
+subdatasets	@tabby-optional-many-subdatasets@tby-abcdjv0			
+used-for	@tabby-optional-many-used-for@tby-abcdjv0			
