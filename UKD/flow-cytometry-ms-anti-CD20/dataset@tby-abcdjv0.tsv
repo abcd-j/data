@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.abcd-j.de/instructions.html#dataset-required
+# bold fields are required	
+name	flow-cytometry-ms-anti-CD20
+title	Effects of anti-CD20 antibody therapy on immune cell dynamics in relapsing-remitting multiple sclerosis
+description	The dataset contains multidimensional flow cytometry (mFC) data from the peripheral blood (PB) from 34 ocrelizumab-treated patients, 25 ofatumumab-treated patients, and 20 treatment-naive relapsing-remitting multiple sclerosis patients. Furthermore, clinical data are available from all cohorts (the expanded disability status scale (EDSS), time since disease manifestation, time since last relapse, the annual relapse rate prior to sampling, and the total number of previous relapses).
+type	custom
+version	1.0
+sample[organism]	NCBITaxon:9606
+sample[organism-part]	NCIT:C12954
+keywords	B cell depletion	multidimensional flow cytometry	multiple sclerosis
+license	
+doi	
+homepage	
+last-updated	
